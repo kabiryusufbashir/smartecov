@@ -20,7 +20,7 @@
             </marquee>
         </div>
         <!-- Logo & Nav  -->
-        <div class="grid grid-cols-2 gap-2 px-20 py-4">
+        <div class="grid grid-cols-2 gap-2 px-20 py-4 bg-white">
             <div>
                 <a href="/"><img src="../assets/images/smart.png" alt="Logo"></a>
             </div>

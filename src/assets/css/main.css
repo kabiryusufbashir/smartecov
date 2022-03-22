@@ -10,7 +10,7 @@
 
 body{
     font-family: "CircularStd Light";
-    background-color: #fff;
+    background-color: #f1c544;
     margin: 0px;
 }
 
@@ -18,3 +18,4 @@ body{
     background-image: url('../images/bg-1.jpg');
     background-repeat: no-repeat;
 }
+
