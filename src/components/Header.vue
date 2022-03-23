@@ -28,19 +28,19 @@
                 <div>
                     <ul class="flex justify-between items-center relative top-3 font-bold">
                         <li>
-                            <a href="/">Home <span class="sr-only">(current)</span></a>
+                            <router-link class="hover:text-green-600" to="/">Home <span class="sr-only">(current)</span></router-link>
                         </li>
                         <li>
-                            <a href="/about">About</a>
+                            <router-link class="hover:text-green-600" to="/about">About</router-link>
                         </li> 
                         <li>
-                            <a href="/services">Services</a>
+                            <router-link class="hover:text-green-600" to="/services">Services</router-link>
                         </li>
                         <li>
-                            <a href="/#commodities">Commodities</a>
+                            <router-link class="hover:text-green-600" to="/#commodities">Commodities</router-link>
                         </li>
                         <li>
-                            <a href="/contact">Contact Us</a>
+                            <router-link class="hover:text-green-600" to="/contact">Contact Us</router-link>
                         </li> 
                     </ul>
                 </div>
