@@ -37,7 +37,7 @@
                             <router-link class="hover:text-green-600" to="/services">Services</router-link>
                         </li>
                         <li>
-                            <router-link class="hover:text-green-600" to="/#commodities">Commodities</router-link>
+                            <a class="hover:text-green-600" href="/#commodities">Commodities</a>
                         </li>
                         <li>
                             <router-link class="hover:text-green-600" to="/contact">Contact Us</router-link>

@@ -13,11 +13,11 @@
         <div>
             <h6 class="text-white text-2xl my-6">Useful Links</h6>
             <ul>
-                <li class=" my-1"><a class="text-white" href="/">Home</a></li>
-                <li class=" my-1"><a class="text-white" href="/about">About</a></li>
-                <li class=" my-1"><a class="text-white" href="/services">Services</a></li>
+                <li class=" my-1"><router-link class="text-white" to="/">Home</router-link></li>
+                <li class=" my-1"><router-link class="text-white" to="/about">About</router-link></li>
+                <li class=" my-1"><router-link class="text-white" to="/services">Services</router-link></li>
                 <li class=" my-1"><a class="text-white" href="/#commodities">Commodities</a></li>
-                <li class=" my-1"><a class="text-white" href="/contact">Contact us</a></li>
+                <li class=" my-1"><router-link class="text-white" to="/contact">Contact us</router-link></li>
             </ul>
         </div>
     </div>

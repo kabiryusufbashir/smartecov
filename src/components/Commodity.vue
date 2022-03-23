@@ -1,5 +1,5 @@
 <template>
-    <div class="px-24 py-8">
+    <div id="commodities" class="px-24 py-8">
         <h1 class="py-4 text-center text-2xl bg-white font-bold">Commodities</h1>
         <div class="grid grid-cols-3 gap-4 bg-white px-4 py-4">
 
